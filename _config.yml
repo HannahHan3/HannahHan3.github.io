@@ -83,7 +83,7 @@ author:
   name             : "Huimin Han"
   avatar           : "profile.png"
   bio              : "Prospective Graduate Student"
-  location         : Location<br /><a href="https://www.google.com/maps/place/5202+Stream+Bank+Ln,+Greenbelt,+MD+20770/@39.0006257,-76.9194095,17z/data=!3m1!4b1!4m5!3m4!1s0x89b7c3f8b4cf5f0d:0xfc2d8791b9240dc1!8m2!3d39.000628!4d-76.9170118">5202 Stream Bank Ln</a>
+  location         : <a href="https://www.google.com/maps/place/5202+Stream+Bank+Ln,+Greenbelt,+MD+20770/@39.0006257,-76.9194095,17z/data=!3m1!4b1!4m5!3m4!1s0x89b7c3f8b4cf5f0d:0xfc2d8791b9240dc1!8m2!3d39.000628!4d-76.9170118">5202 Stream Bank Ln</a>
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   #googlescholar    : "http://yourfullgooglescholarurl.com"
