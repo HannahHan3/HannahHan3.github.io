@@ -7,5 +7,5 @@ author_profile: true
 
 ## Certificates
 
-* 
+* Data Scientist with Python [View Certificate]() 
 
