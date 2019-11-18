@@ -22,5 +22,7 @@ redirect_from:
 
 # Recent
 * [2019 Grace Hopper Celebration](https://ghc.anitab.org/calendar/2019-grace-hopper-celebration/) <br />
+Student Attendee<br />
 _GHC is the world’s largest gathering of women in computing._
 * [Conference on Health IT and Analytics(CHITA)](https://www.rhsmith.umd.edu/centers-excellence/center-health-information-decision-systems/initiatives-programs/chita)
+Volunteer
