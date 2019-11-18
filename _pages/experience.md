@@ -8,21 +8,21 @@ author_profile: true
 
 {% include base_path %}
 
-* Data Science Remote Intern  
+* Data Science Remote Intern  <br />
 _09/2019- Present_ <br />
 RoofStock, CA
 
-* Research Assistant 
+* Research Assistant <br />
 _08/2019- Present_ <br />
 University of Maryland, The Center for Health Information and Decision Systems (CHIDS), MD        
 
-* Teaching Assistant
+* Teaching Assistant <br />
 _03/2019- Present_ <br />
 University of Maryland, R.H. Smith School of Business, MD
 
-* IRS Certificated Volunteer of tax return
+* IRS Certificated Volunteer of tax return <br />
 _02/2019- 05/2019_
 
-* Data Analyst Intern
+* Data Analyst Intern <br />
 _11/2017- 05/2018_ <br/>
 Xuanwu Hospital, Beijing, China  
