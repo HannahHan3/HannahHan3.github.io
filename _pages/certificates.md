@@ -24,6 +24,7 @@ author_profile: true
 * [Machine Learning with the Experts- School Budgets](https://hannahhan3.github.io/files/Machine Learning with the Experts- School Budgets.pdf)
 * [Interactive Data Visualization with Bokeh](https://hannahhan3.github.io/files/Interactive Data Visualization with Bokeh.pdf)
 * [Introduction to Shell for Data Science](https://hannahhan3.github.io/files/Introduction to Shell for Data Science.pdf)
+
 ### Coursera
 * Data Structures(University of California San Diego & National Research University Higher School of Economics)
 * Machine Learning(Stanford University)
