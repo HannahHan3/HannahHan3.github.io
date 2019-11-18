@@ -7,13 +7,13 @@ main:
     url: /experience/    
 
   - title: "Projects"
-    url: /projects/    
+    url: /projects/   
+    
+  - title: "Courses"
+    url: /courses/
     
   - title: "Miscellaneous"
     url: /miscellaneous/
-        
-  - title: "Contact"
-    url: /contact/
         
   - title: "CV"
     url: /cv/
