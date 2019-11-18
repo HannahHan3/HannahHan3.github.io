@@ -9,8 +9,8 @@ main:
   - title: "Projects"
     url: /projects/   
     
-  - title: "Courses"
-    url: /courses/
+  - title: "Certificates"
+    url: /certificates/
     
   - title: "Miscellaneous"
     url: /miscellaneous/
