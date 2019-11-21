@@ -16,7 +16,7 @@ redirect_from:
 •	BUSI634: Operations Management (Spring 2019) by [Prof. Zhilong Chen](http://scholar.rhsmith.umd.edu/zchen/research-interests)<br />
 •	BUSM762: Decision Analytics (Spring 2019) <br /> 
 
-* My research interests lie in the general area of machine learning and data science, expecially their application in health care.
+* My research interests lie in the general area of machine learning and data science, especially their applications in health care.
 * Recently I'm working on a predictive modeling project to predict pharmacy sales volume to imporve the inventory management.
 
 
