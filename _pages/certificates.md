@@ -26,7 +26,7 @@ author_profile: true
 * [Introduction to Shell for Data Science](https://hannahhan3.github.io/files/Introduction to Shell for Data Science.pdf)
 
 ### Coursera
-* CS61B(UC Berkeley)
+* CS61B Data Structures(UC Berkeley)
 * Data Structures(University of California San Diego & National Research University Higher School of Economics)
 * Machine Learning(Stanford University)
 
