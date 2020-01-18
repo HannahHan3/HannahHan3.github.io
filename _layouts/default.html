@@ -9,7 +9,7 @@ layout: compress
   <head>
     {% include head.html %}
     {% include head/custom.html %}
-    {% include analytics.html %}
+    
   </head>
 
   <body>
@@ -27,6 +27,8 @@ layout: compress
     </div>
 
     {% include scripts.html %}
-
+    {% if jekyll.environment == 'production' %}
+    {% include analytics.html %}
+    {% endif %}
   </body>
 </html>
