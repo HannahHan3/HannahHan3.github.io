@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-* I am a student pursing my master's degree in Business analytics, University of Maryland. I have been affiliated with [Center for Health Information and Decision Systems (CHIDS)](https://www.rhsmith.umd.edu/centers-excellence/center-health-information-decision-systems) since August, 2019 as a Research Assistant advised by [Prof. Guodong(Gordon) Gao](http://scholar.rhsmith.umd.edu/ggao). 
+* I earned my master's degree in Business analytics, University of Maryland on December, 2019. I have been affiliated with [Center for Health Information and Decision Systems (CHIDS)](https://www.rhsmith.umd.edu/centers-excellence/center-health-information-decision-systems) from August, 2019 to Jan, 2020 as a Research Assistant advised by [Prof. Guodong(Gordon) Gao](http://scholar.rhsmith.umd.edu/ggao). 
 * I worked as a teaching assistant for several courses: <br />
 •	BUDT758P: Decision Analytics  (Fall 2019) by [Prof. S.Raghu Raghavan](http://terpconnect.umd.edu/~raghavan/)<br />
 •	BUSO758M: Decision Modeling  (Summer 2019) by [Prof. S.Raghu Raghavan](http://terpconnect.umd.edu/~raghavan/)<br />
