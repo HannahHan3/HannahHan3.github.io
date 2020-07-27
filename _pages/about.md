@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+* I'm currently working as a Data Analyst at Sanofi.
 
 * I earned my master's degree in Business analytics, University of Maryland on December, 2019. I have been affiliated with [Center for Health Information and Decision Systems (CHIDS)](https://www.rhsmith.umd.edu/centers-excellence/center-health-information-decision-systems) from August, 2019 to Jan, 2020 as a Research Assistant advised by [Prof. Guodong(Gordon) Gao](http://scholar.rhsmith.umd.edu/ggao). 
 * I worked as a teaching assistant for several courses: <br />
