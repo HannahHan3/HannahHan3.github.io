@@ -9,7 +9,7 @@ author_profile: true
 {% include base_path %}
 
 ### Data Analyst <br />
-* _05/2020- present 
+* _05/2020- present_ <br /> 
 * Sanofi, Beijing, China
 ### Data Science Remote Intern  <br />
 * _09/2019- 12/2019_ <br />
