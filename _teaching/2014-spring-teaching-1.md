@@ -10,10 +10,7 @@ location: "City, Country"
 
 This is a description of a teaching experience. You can use markdown like any other post.
 
-• BUDT758P: Decision Analytics (Fall 2019) by Prof. S.Raghu Raghavan
-• BUSO758M: Decision Modeling (Summer 2019) by Prof. S.Raghu Raghavan
-• BUSI634: Operations Management (Spring 2019) by Prof. Zhilong Chen
-• BUSM762: Decision Analytics (Spring 2019) by Prof. Sujin Kim
+
 
 
 
