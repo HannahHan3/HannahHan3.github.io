@@ -9,7 +9,7 @@ redirect_from:
 ---
 * I'm currently pursuing my second master's degree of Computer Science at Virginia Tech. I started working with my advisor [Dr. Chris North](https://people.cs.vt.edu/north/) since May, 2020. My research interests lie in Visual Analytics, Machine Learning and Data Science.
 
-* I earned my first master's degree in Business analytics, University of Maryland on December, 2019. I have been affiliated with [Center for Health Information and Decision Systems (CHIDS)](https://www.rhsmith.umd.edu/centers-excellence/center-health-information-decision-systems) from August, 2019 to Jan, 2020 as a Research Assistant advised by [Prof. Guodong(Gordon) Gao](http://scholar.rhsmith.umd.edu/ggao). 
+* I earned my first master's degree in Business analytics, University of Maryland on December, 2019. I have been affiliated with [Center for Health Information and Decision Systems (CHIDS)](https://www.rhsmith.umd.edu/centers-excellence/center-health-information-decision-systems) from August, 2019 to Jan, 2020 as a Research Assistant advised by [Prof. Guodong(Gordon) Gao](https://www.rhsmith.umd.edu/directory/guodong-gordon-gao). 
 
 
 # Recent
