@@ -14,4 +14,3 @@ redirect_from:
 
 # Recent
 * I'm going to graduate in December 2022.
-* I will work as a Machine Learning Engineer Intern this coming summer 2022.
